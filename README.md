@@ -72,44 +72,81 @@ The t nut emm... ears? should be perpendicular to the profile direction to get a
 ### Top assembly
 
 1. Insert the bolts in the holes of the plywood, the thread must be barely inside a T nut.
+
+ <img src="/images/boltplank.png" width="500">
+
 2. Assemble the aluminium frame as the pic indicates, with 2 1500 mm and 2 500 mm profiles.
+
+<img src="/images/topframe.png" width="500">
+
 3. Put the plank with the bolts on top of the frame and move the bolts around until they drop inside the rails.
 4. Tighten each bolt.
 5. Put the 3d printed caps in the ends of the long aluminium profile, this is optional. A rubber hammer may help if the piece does not snaps inside easily.
 
+<img src="/images/thecap.png" width="500">
+
 The inside brackets are not really helping anymore, so you can remove them to be used in the next steps.
+
+<img src="/images/inside.png" width="500">
 
 ### Leg assembly
 
 1. Put a cap in the end of a 750 mm profile. (Or a level mechanism if you got one)
 2. Add two adjacent corner brackets at the other end (with bolts and nuts). The unocuppied surface of the brackets must be coincident with the face of the profile.
+
+ <img src="/images/legasem.png" width="500">
+
 3. Repeat the process 3 times to get the four legs.
 
 ### Leg stretcher
 
 1. Put two corner brackets in opposite sides in both ends of a 500 mm profile
+
+ <img src="/images/legastret.png" width="500">
+
 2. Repeat the process one more time with another 500 mm profile.
 
 ### Diagonal stretcher
 
 1. Put a M8 bolt in the center of the end of a 250 mm profile, try to thread it straight inside with a wrench, this will form the inner thread in the profile hole.
+
+<img src="/images/threading.png" width="500">
+
 2. Repeat the process with the other face.
 3. Bolt a 45 degree bracket to each face of the aluminium profile as the pic indicates.
+
+<img src="/images/45bracket.png" width="500">
+
 4. Add the M5 bolts and nuts.
+
+<img src="/images/45bolts.png" width="500">
+
 5. Repeat the process one more time with another 250 mm profile
 
 ### Side assembly
 
 1. Using the brackets in a leg stretcher assembly, bolt it to a leg assembly 250 mm above the end cap in the leg, as the pic indicates.
-2. Repeat with other leg.
+
+<img src="/images/sideas.png" width="500">
+
+2. Repeat with other leg, two brackets must be facing inside and the other two must be pointing at the same direction.
+
 3. Repeat the whole process one more time to get another side assembly.
 
 ### Full assembly
 
 1. With the top assembly facing downwards, bolt the side assemblies in the corners of the aluminium frame with the brackets.
+
+<img src="/images/ful.png" width="500">
+
 2. Bolt the diagonal stretchers as close as possible to the corner. One of the bolts may be tricky to tighten as it's head is too close to the profile, but is still possible with a small or rounded wrench.
+
+<img src="/images/diagas.png" width="500">
+
 3. Turn it upside down, of course.
 
 ## DONE
+
+<img src="/images/table.png" width="500">
 
 Now you can add more features to your table, i 3d pritned a headphone stand and attached to it. A cool thing is that you can disassemble it and bolt it togheter to reduce it's volume when you have to move, maybe form some handles.
