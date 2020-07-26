@@ -102,7 +102,7 @@ The inside brackets are not really helping anymore, so you can remove them to be
 
 1. Put two corner brackets in opposite sides in both ends of a 500 mm profile
 
- <img src="/images/legastret.png" width="500">
+ <img src="/images/legstret.png" width="500">
 
 2. Repeat the process one more time with another 500 mm profile.
 
