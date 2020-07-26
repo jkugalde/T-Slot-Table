@@ -33,8 +33,6 @@ M5x12 flat head bolt | 42
 M5x15 flat head bolt | 12
 M8x16 socket head bolt | 4
 
-I 3d printed the caps and the 45 degree brackets, as my local store did not sell them, the files are included in the parts folder. The foots could have been an adjustable level mechanism but i did not really need that, so i put caps in there.
-
 ## Manufacturing
 
 ### Plywood top
